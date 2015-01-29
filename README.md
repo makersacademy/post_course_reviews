@@ -1,5 +1,5 @@
 # tl:dr; 
-FORK ME && BUILD ME && PULL REQUEST ME
+# FORK ME && BUILD ME && PULL REQUEST ME
 
 Submitting your challenge
 -----
