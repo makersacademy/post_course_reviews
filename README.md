@@ -1,4 +1,5 @@
-# tl:dr; FORK ME && BUILD ME && PULL REQUEST ME
+# tl:dr; 
+FORK ME && BUILD ME && PULL REQUEST ME
 
 Submitting your challenge
 -----
