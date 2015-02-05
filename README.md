@@ -3,7 +3,7 @@
 
 ## Creating your challenge
 
-1. *Write out your problem** on paper - both what the problem is and what you want to learn from it.
+1. **Write out your problem** on paper - both what the problem is and what you want to learn from it.
 2. Sketch out how you plan to solve the problem
 3. Draw out a first draft of your objects/data structure (if you're using a database think which tables you'll need and how they'll relate to each other)
 4. Start with your first spec (doesn't matter where it is), and gradually build up your app spec by spec
